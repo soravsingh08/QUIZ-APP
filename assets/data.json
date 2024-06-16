@@ -1,0 +1,82 @@
+[
+    {
+      "question": "What is the primary purpose of Node.js in a full-stack application?",
+      "option1": "Rendering frontend views",
+      "option2": "Handling backend logic and APIs",
+      "option3": "Styling web pages",
+      "option4": "Managing databases",
+      "ans": 2
+    },
+    {
+      "question": "Which technology is commonly used for building the frontend of a full-stack application?",
+      "option1": "Express.js",
+      "option2": "React",
+      "option3": "MongoDB",
+      "option4": "Node.js",
+      "ans": 2
+    },
+    {
+      "question": "Which database type is typically used for storing structured data in full-stack applications?",
+      "option1": "NoSQL",
+      "option2": "Relational",
+      "option3": "Graph",
+      "option4": "Document",
+      "ans": 2
+    },
+    {
+      "question": "Which language is commonly used for defining the structure and style of web pages in a full-stack application?",
+      "option1": "JavaScript",
+      "option2": "HTML",
+      "option3": "Python",
+      "option4": "CSS",
+      "ans": 2
+    },
+    {
+      "question": "What does MVC stand for in the context of full-stack development?",
+      "option1": "Model-View-Controller",
+      "option2": "Multiple-View-Controllers",
+      "option3": "Model-Validation-Controller",
+      "option4": "Managed-View-Controllers",
+      "ans": 1
+    },
+    {
+      "question": "Which of the following is NOT a primary feature of a RESTful API?",
+      "option1": "Stateless communication",
+      "option2": "Data manipulation operations",
+      "option3": "Session-based authentication",
+      "option4": "Resource-based URLs",
+      "ans": 3
+    },
+    {
+      "question": "Which tool is commonly used for managing dependencies in a Node.js-based full-stack application?",
+      "option1": "NPM (Node Package Manager)",
+      "option2": "Git",
+      "option3": "Webpack",
+      "option4": "Babel",
+      "ans": 1
+    },
+    {
+      "question": "In a full-stack application, what is the purpose of middleware?",
+      "option1": "To create user interfaces",
+      "option2": "To handle routing and request processing",
+      "option3": "To manage databases",
+      "option4": "To style web pages",
+      "ans": 2
+    },
+    {
+      "question": "What does JSON stand for in the context of web development?",
+      "option1": "JavaScript Object Notation",
+      "option2": "JavaScript Orientation Network",
+      "option3": "JavaScript Optimized Networking",
+      "option4": "JavaScript Object Networking",
+      "ans": 1
+    },
+    {
+      "question": "Which tool is commonly used for version control in full-stack development projects?",
+      "option1": "MongoDB",
+      "option2": "SVN (Subversion)",
+      "option3": "Git",
+      "option4": "MySQL",
+      "ans": 3
+    }
+  ]
